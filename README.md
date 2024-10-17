@@ -4,7 +4,7 @@ Hi 👋 My name is Mark Doropei
 frontend developer
 ------------------
 
-Hi I'm Mark ,i'm 13 years old. Kodding is hobby.
+Hi I'm Mark ,i'm 14 years old. codding is hobby.
 
 * 🌍  I'm based in Minsk
 * 🖥️  See my portfolio at [My projects](http://github.com/MarkDoropei?tab=repositories)
