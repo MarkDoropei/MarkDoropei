@@ -4,13 +4,13 @@ Hi 👋 My name is Mark Doropei
 frontend developer
 ------------------
 
-Hi I'm Mark ,i'm 14 years old. codding is hobby.
+Hi I'm Mark ,i'm 15 years old. codding is my hobby.
 
 * 🌍  I'm based in Minsk
 * 🖥️  See my portfolio at [My projects](http://github.com/MarkDoropei?tab=repositories)
 * ✉️  You can contact me at [markdoropei@gmail.com](mailto:markdoropei@gmail.com)
 * 🚀  I'm currently working on [project company](http://github.com/MarkDoropei/ProjectCompany)
-* 🧠  I'm learning html and CSS
+* 🧠  I'm learning html CSS and JS
 
 ### Skills
 
