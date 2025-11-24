@@ -8,7 +8,7 @@ I've been learning to code since 2023.
 
 * 🌍  I'm based in Minsk
 * 🖥️  See my portfolio at [here](http://https://github.com/MarkDoropei?tab=repositories)
-* 🚀  I'm currently working on [StarBucks](http://github.com/MarkDoropei/StarBucks.git)
+* 🚀  I'm currently working on ...
 * 🧠  I'm learning JavaScript
 * ⚡  I love my Hobby
 
@@ -26,7 +26,3 @@ src="https://img.shields.io/github/followers/markdoropei?logo=github&style=for-t
 
 <p align="left"> <a href="https://discord.com/users/marker_bruno11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.github.com/markdoropei" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/marker_bruno11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a> <a href="https://www.x.com/marker_bruno11" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" alt="Twitter" title="Twitter" /> </picture> </a></p>
 
-
-### Badges
-
-<a href="https://github.com/markdoropei" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markdoropei&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0d1116&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
